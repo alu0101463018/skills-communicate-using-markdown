@@ -8,3 +8,8 @@ The previuos text is a `h1`
 ```typescript
 console.log('Hello World!');
 ```
+
+## Task list
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
+- [ ] Turn on GitHub Pages
